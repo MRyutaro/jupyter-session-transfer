@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "jupyter-session-transfer",
+  "description": "jupyter-session-transfer settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
